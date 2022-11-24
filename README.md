@@ -10,7 +10,7 @@
 ### How to manually test this
 
 1. Clone this repository - `git clone <repository url>`
-2. Install dependenci. Run `flutter pub get` on the root directory
+2. Install dependencies Run `flutter pub get` on the root directory
 3. Launch the IOS emulator
 4. Run the app and test the app
 
